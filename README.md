@@ -17,6 +17,8 @@ Planned additions include:
 - Deep dives into regional differences and keyword associations.
 - Integration of additional datasets for a more comprehensive market overview.
 
+Update: Since it is not possible to get any data in this field, I decided to stop the research for free data and will continue with a different project to showcase my skills.
+
 ## Purpose
 The analyses in this repository aim to:
 
